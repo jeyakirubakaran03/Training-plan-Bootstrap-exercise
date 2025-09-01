@@ -1,5 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+@import url('https://db.onlinewebfonts.com/c/55d433372d270829c51e2577a78ef12d?family=Monument+Extended+Bold');
+@import url('https://db.onlinewebfonts.com/c/99501fdab737541e9315ceaf9229370f?family=Monument+Extended+Regular');
 
 body{
     background-color: #fbf8f3 !important;
@@ -62,8 +64,9 @@ body{
 }
 
 .name{
-    font-family: 'Monument', 'Montserrat', sans-serif;
-    font-weight: 800;
+    /* font-family: 'Monument', 'Montserrat', sans-serif; */
+    /* font-family: 'MonumentExtended-Ultralight'; */
+    font-family: 'Monument Extended Regular';
     text-transform: uppercase;
     font-size: 2rem;
     position: absolute;
@@ -103,7 +106,7 @@ body{
     left: 40px;
     margin: 0;
     font-weight: 700;
-    font-family: 'Monument', 'Montserrat', sans-serif;
+    font-family: "Monument Extended Regular";
     text-transform: uppercase;
     font-size: 18px;
     color: #583513;
