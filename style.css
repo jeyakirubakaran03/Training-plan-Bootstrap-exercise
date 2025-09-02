@@ -197,9 +197,12 @@ body{
         margin-top: 0.8rem;
         margin-bottom: 0;
     }
-    .experience-col-space{
+    /* .experience-col-space{
         margin-top: 0px !important;
     }
+    .skill-col-space{
+        margin-top: 0px !important;
+    } */
 } 
 
 
@@ -215,6 +218,9 @@ body{
         font-size: 0.8rem;
     }
     .experience-col-space{
+        margin-top: 0px !important;
+    }
+    .skill-col-space{
         margin-top: 0px !important;
     }
 }
