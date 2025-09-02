@@ -60,7 +60,7 @@ body{
     gap: 1rem;
     align-items: center;
     justify-content: center;
-    color: #5C300C;
+    color: #4a291d;
 }
 
 .name{
@@ -87,13 +87,13 @@ body{
     letter-spacing: 2px;
 }
 
-.section-heading-img-bg{
+.resume-section{
     position: relative;
     display: inline;
     
 }
 
-.img-style{
+.bg-img-style{
     height: auto;
     max-height: 100px;
     max-width: 350px;
@@ -109,7 +109,7 @@ body{
     font-family: "Monument Extended Regular";
     text-transform: uppercase;
     font-size: 18px;
-    color: #583513;
+    color: #4a291d;
 }
 
 .experience-col-space{
@@ -165,7 +165,7 @@ body{
     font-size: 12px;
 }
 
-.work-img-style{
+.work-bg-img-style{
     height: auto;
     max-height: 100px;
     max-width: 350px;
